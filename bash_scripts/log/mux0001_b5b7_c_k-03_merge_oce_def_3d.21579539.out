@@ -1,0 +1,76 @@
+[Mon Dec 22 13:50:57 CET 2025] Processing variable: mass_flux
+[Mon Dec 22 14:11:33 CET 2025] Finished to
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 21579764
+* JobName          : mux0001_b5b7_c_k-03_merge_oce_def_3d              
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l[40245-40246] (2)                                        
+* Submit date      : 2025-12-22T13:26:32
+* Start time       : 2025-12-22T13:49:56
+* End time         : 2025-12-22T14:11:33
+* Elapsed time     : 00:21:37 (Timelimit=00:30:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_merge_3d.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch             0.72
+* extern | extern            0.72                 860K (0)
+* ------------------------------------------------------------------------------
+
+[Mon Dec 22 14:12:05 CET 2025] Finished mass_flux
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 21579539
+* JobName          : mux0001_b5b7_c_k-03_merge_oce_def_3d              
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l[40349,40357] (2)                                        
+* Submit date      : 2025-12-22T13:26:32
+* Start time       : 2025-12-22T13:50:47
+* End time         : 2025-12-22T14:12:05
+* Elapsed time     : 00:21:18 (Timelimit=00:30:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_merge_3d.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* undefi | mux0001_b5b7      0.71                       ()
+* batch  | batch             0.71
+* extern | extern            0.71                 860K (1)
+* undefi | mux0001_b5b7      0.76                       ()
+* batch  | batch             0.76
+* extern | extern            0.76                 860K (0)
+* undefi | mux0001_b5b7      0.74                       ()
+* batch  | batch             0.74
+* extern | extern            0.74                 860K (1)
+* batch  | batch             0.72
+* extern | extern            0.72                 860K (0)
+* ------------------------------------------------------------------------------
+

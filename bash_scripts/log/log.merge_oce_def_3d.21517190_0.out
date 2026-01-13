@@ -1,0 +1,34 @@
+[Thu Dec 18 16:55:55 CET 2025] Processing variable: rhopot
+[Thu Dec 18 17:19:06 CET 2025] Finished rhopot
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 21517253
+* JobName          : merge_oce_def_3d                                  
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l[40303,40341] (2)                                        
+* Submit date      : 2025-12-18T16:53:07
+* Start time       : 2025-12-18T16:55:50
+* End time         : 2025-12-18T17:19:06
+* Elapsed time     : 00:23:16 (Timelimit=00:30:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_merge_3d.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch             0.78
+* extern | extern            0.78                 860K (0)
+* ------------------------------------------------------------------------------
+

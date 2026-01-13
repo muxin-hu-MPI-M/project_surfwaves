@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "'iA Writer Mono V'",
+    "editor.codeLensFontFamily": "'iA Writer Mono V'",
+    "editor.inlayHints.fontFamily": "'iA Writer Mono V'",
+    "editor.inlineSuggest.fontFamily": "'iA Writer Mono V'",
+    "debug.console.fontFamily": "'iA Writer Mono V'",
+    "scm.inputFontFamily": "'iA Writer Mono V'",
+    "terminal.integrated.fontFamily": "'iA Writer Mono V'",
+    "notebook.output.fontFamily": "'iA Writer Mono V'",
+    "chat.editor.fontFamily": "'iA Writer Mono V'",
+    "chat.fontFamily": "'iA Writer Mono V'",
+    "markdown.preview.fontFamily": "'iA Writer Mono V'"
+}

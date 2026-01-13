@@ -1,0 +1,5 @@
+cdo(1) mergetime: Open failed on >/work/mh0033/m301254/proj_surfwave/icon-2025-08-06-XPP/icon-mpim/experiments/mux0001_b5b7_c-k_03/outdata/mux0001_b5b7_c-k_03_oce_def_13300101T000000Z.nc<
+                  No such file or directory
+terminate called without an active exception
+/var/spool/slurmd/job21576788/slurm_script: line 49: 1063766 Aborted                 cdo -O -selname,${VAR} -mergetime ${INDIR}/${EXP}_${CATEGORY}_13300101T000000Z.nc ${INDIR}/${EXP}_${CATEGORY}_13350101T000000Z.nc ${INDIR}/${EXP}_${CATEGORY}_13400101T000000Z.nc ${INDIR}/${EXP}_${CATEGORY}_13450101T000000Z.nc "${OUTFILE}"
+/var/spool/slurmd/job21576775/slurm_script: line 49: 503635 Aborted                 cdo -O -selname,${VAR} -mergetime ${INDIR}/${EXP}_${CATEGORY}_13300101T000000Z.nc ${INDIR}/${EXP}_${CATEGORY}_13350101T000000Z.nc ${INDIR}/${EXP}_${CATEGORY}_13400101T000000Z.nc ${INDIR}/${EXP}_${CATEGORY}_13450101T000000Z.nc "${OUTFILE}"

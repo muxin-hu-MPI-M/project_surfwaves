@@ -1,0 +1,39 @@
+[Mon Dec 22 11:08:03 CET 2025] EXP        : mux0001_b5b7_c-k_03
+[Mon Dec 22 11:08:03 CET 2025] VARIABLES  : tos,sos,mld
+[Mon Dec 22 11:08:03 CET 2025] INDIR      : /work/mh0033/m301254/proj_surfwave/icon-2025-08-06-XPP/icon-mpim/experiments/mux0001_b5b7_c-k_03/outdata
+[Mon Dec 22 11:08:03 CET 2025] TMPDIR     : /work/mh0033/m301254/proj_surfwave/processed_data/mux0001_b5b7_c-k_03/tmp_2d
+[Mon Dec 22 11:08:03 CET 2025] OUTFILE    : /work/mh0033/m301254/proj_surfwave/processed_data/mux0001_b5b7_c-k_03/mux0001_b5b7_c-k_03_oce_def_2d_1330-1345.nc
+[Mon Dec 22 11:08:03 CET 2025] Selecting 2D variables per file...
+[Mon Dec 22 11:08:03 CET 2025]  -> 13300101T000000Z
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 21576770
+* JobName          : mux0001_b5b7_c-k_03_merge_oce_def_2d              
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l40265 (1)                                                
+* Submit date      : 2025-12-22T11:07:26
+* Start time       : 2025-12-22T11:07:57
+* End time         : 2025-12-22T11:08:04
+* Elapsed time     : 00:00:07 (Timelimit=00:30:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_merge_2d.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0019
+* extern | extern          0.0019                3816K (0)
+* ------------------------------------------------------------------------------
+

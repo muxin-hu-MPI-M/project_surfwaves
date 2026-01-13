@@ -1,0 +1,32 @@
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 21782357
+* JobName          : mux0001_b5b7_c_k-10_timmean_oce_def_3d            
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l40193 (1)                                                
+* Submit date      : 2026-01-02T16:21:08
+* Start time       : 2026-01-02T16:22:23
+* End time         : 2026-01-02T16:22:26
+* Elapsed time     : 00:00:03 (Timelimit=00:30:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_timemean_3d.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch          0.00083
+* extern | extern         0.00083                 860K (0)
+* ------------------------------------------------------------------------------
+
