@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=mux0001_b5b7_c_k-10_merge_oce_def_3d
+#SBATCH --job-name=mux0001_b5b7_merge_atm_3d
 #SBATCH --time=00:30:00
 #SBATCH --nodes=2
 #SBATCH --mem=256G
@@ -15,14 +15,14 @@ set -euo pipefail
 # ====================
 # Config
 # ====================
-EXP="mux0001_b5b7_c_k-10"
-CATEGORY="oce_def"
+EXP="mux0001_b5b7"
+CATEGORY="atm_3d"
 
 INDIR="/work/mh0033/m301254/proj_surfwave/icon-2025-08-06-XPP/icon-mpim/experiments/${EXP}/outdata"
 OUTDIR="/work/mh0033/m301254/proj_surfwave/processed_data/${EXP}"
 mkdir -p "${OUTDIR}"
 
-VARS_3D=(rhopot so to mass_flux)
+VARS_3D=(u v)
 VAR=${VARS_3D[$SLURM_ARRAY_TASK_ID]}
 
 OUTFILE="${OUTDIR}/${EXP}_${CATEGORY}_${VAR}_1330-1345.nc"
