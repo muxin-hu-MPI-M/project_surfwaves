@@ -40,12 +40,12 @@ def init_dask_slurm_cluster(scale, processes, cores, memory="200GiB", walltime="
         memory          = memory,
         processes       = processes,
         cores           = cores,
-        account         = "mh0033",
-        name            = "m301250-dask-cluster",
+        account         = "bm1102",
+        name            = "m301254-dask-cluster",
         interface       = "ib0",
         asynchronous    = False,
-        log_directory   = "/scratch/m/m301250/dask_logs/",
-        local_directory = "/scratch/m/m301250/dask_temp/",
+        log_directory   = "/scratch/m/m301254/dask_log/",
+        local_directory = "/scratch/m/m301254/dask_tmp/",
     )
     
     client = Client(scluster)
