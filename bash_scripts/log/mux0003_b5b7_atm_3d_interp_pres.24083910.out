@@ -1,0 +1,64 @@
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 24084732
+* JobName          : mux0003_b5b7_atm_3d_interp_pres                   
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l[40176-40177] (2)                                        
+* Submit date      : 2026-04-09T16:30:05
+* Start time       : 2026-04-09T16:54:25
+* End time         : 2026-04-09T16:54:28
+* Elapsed time     : 00:00:03 (Timelimit=00:45:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_atm_3d_interp_pres.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0017
+* extern | extern          0.0017                 856K (0)
+* ------------------------------------------------------------------------------
+
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 24084731
+* JobName          : mux0003_b5b7_atm_3d_interp_pres                   
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l[40173-40174] (2)                                        
+* Submit date      : 2026-04-09T16:30:05
+* Start time       : 2026-04-09T16:54:25
+* End time         : 2026-04-09T16:54:28
+* Elapsed time     : 00:00:03 (Timelimit=00:45:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_atm_3d_interp_pres.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch           0.0017
+* extern | extern          0.0017                 856K (0)
+* ------------------------------------------------------------------------------
+

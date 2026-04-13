@@ -1,0 +1,111 @@
+[Thu Apr  9 17:05:55 CEST 2026] Processing /work/mh0033/m301254/proj_surfwave/icon-2025-08-06-XPP/icon-mpim/experiments/mux0003_b5b7_c_k-03/outdata/mux0003_b5b7_c_k-03_atm_3d_13350101T000000Z.nc
+[Thu Apr  9 17:07:10 CEST 2026] Finished /work/mh0033/m301254/proj_surfwave/processed_data/mux0003_b5b7_c_k-03/mux0003_b5b7_c_k-03_atm_3d_preslev_13350101T000000Z.nc
+[Thu Apr  9 17:07:10 CEST 2026] Finished /work/mh0033/m301254/proj_surfwave/processed_data/mux0003_b5b7_c_k-03/mux0003_b5b7_c_k-03_atm_3d_preslev_13450101T000000Z.nc
+[Thu Apr  9 17:07:11 CEST 2026] Finished /work/mh0033/m301254/proj_surfwave/processed_data/mux0003_b5b7_c_k-03/mux0003_b5b7_c_k-03_atm_3d_preslev_13400101T000000Z.nc
+[Thu Apr  9 17:07:11 CEST 2026] Finished /work/mh0033/m301254/proj_surfwave/processed_data/mux0003_b5b7_c_k-03/mux0003_b5b7_c_k-03_atm_3d_preslev_13300101T000000Z.nc
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 24085056
+* JobName          : mux0003_b5b7_atm_3d_interp_pres                   
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l40338 (1)                                                
+* Submit date      : 2026-04-09T17:02:22
+* Start time       : 2026-04-09T17:05:53
+* End time         : 2026-04-09T17:07:10
+* Elapsed time     : 00:01:17 (Timelimit=00:45:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_atm_3d_interp_pres.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch            0.021
+* extern | extern           0.037                 856K (0)
+* ------------------------------------------------------------------------------
+
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 24085055
+* JobName          : mux0003_b5b7_atm_3d_interp_pres                   
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l40195 (1)                                                
+* Submit date      : 2026-04-09T17:02:22
+* Start time       : 2026-04-09T17:05:53
+* End time         : 2026-04-09T17:07:11
+* Elapsed time     : 00:01:18 (Timelimit=00:45:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_atm_3d_interp_pres.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch            0.022
+* extern | extern           0.037                 856K (0)
+* ------------------------------------------------------------------------------
+
+
+********************************************************************************
+*                                                                              *
+*  This is the automated job summary provided by DKRZ.                         *
+*  If you encounter problems, need assistance or have any suggestion, please   *
+*  write an email to                                                           *
+*                                                                              *
+*  --  support@dkrz.de --                                                      *
+*                                                                              *
+*                       We hope you enjoyed the DKRZ supercomputer LEVANTE ... *
+*
+* JobID            : 24085057
+* JobName          : mux0003_b5b7_atm_3d_interp_pres                   
+* Account          : mh0033
+* User             : m301254 (40405), mpioes (2100)                    
+* Partition        : compute
+* QOS              : normal
+* Nodelist         : l40343 (1)                                                
+* Submit date      : 2026-04-09T17:02:22
+* Start time       : 2026-04-09T17:05:53
+* End time         : 2026-04-09T17:07:11
+* Elapsed time     : 00:01:18 (Timelimit=00:45:00)                     
+* Command          : /home/m/m301254/project_surfwaves/bash_scripts/
+*                    cdo_atm_3d_interp_pres.sh
+* WorkDir          : /home/m/m301254/project_surfwaves/bash_scripts
+*
+* StepID | JobName      NodeHours    MaxRSS [Byte] (@task)
+* ------------------------------------------------------------------------------
+* batch  | batch            0.022
+* extern | extern           0.037                 856K (0)
+* ------------------------------------------------------------------------------
+
+     0.022                       ()
+* batch  | batch            0.022
+* extern | extern           0.037                 856K (0)
+* undefi | mux0003_b5b7     0.021                       ()
+* batch  | batch            0.021
+* extern | extern           0.037                 856K (0)
+* batch  | batch            0.022
+* extern | extern           0.037                 856K (0)
+* ------------------------------------------------------------------------------
+
